@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <img alt="Estimated AI cost tracked by Tokscale" src="https://tokscale.ai/api/badge/cynthia174/svg?metric=cost&compact=1&label=Estimated%20Cost" />
 </a>
 
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake.svg" />
