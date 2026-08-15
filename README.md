@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- CURRENT-FOCUS:START -->
+## 🎯 Current Focus
+
+```text
+🎯 Latest focus   Financial Risk Management System
+🚀 Also building  Approval Expert Bot
+🧠 Working on     AI agents, workflow automation, and enterprise integrations
+⚡ Goal           Reliable, data-safe automation for finance and approvals
+🕒 Updated        2026-08-15 UTC
+```
+<!-- CURRENT-FOCUS:END -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake.svg" />
