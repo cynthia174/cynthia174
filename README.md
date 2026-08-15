@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 ```
 <!-- CURRENT-FOCUS:END -->
 
+## 📊 AI Usage
+
+<a href="https://tokscale.ai/u/cynthia174">
+  <img alt="AI tokens tracked by Tokscale" src="https://tokscale.ai/api/badge/cynthia174/svg?metric=tokens&compact=1&label=AI%20Tokens" />
+</a>
+<a href="https://tokscale.ai/u/cynthia174">
+  <img alt="Estimated AI cost tracked by Tokscale" src="https://tokscale.ai/api/badge/cynthia174/svg?metric=cost&compact=1&label=Estimated%20Cost" />
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cynthia174/cynthia174/output/github-snake.svg" />
