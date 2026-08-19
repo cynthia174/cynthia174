@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## 🎯 Current Focus
 
 ```text
-🎯 Latest focus   Financial Risk Management System
-🚀 Also building  Approval Expert Bot
+🎯 Latest focus   OperationalAnalysis-DataLayer  
+🚀 Also building  Financial Risk Management System、 Approval Expert Bot
 🧠 Working on     AI agents, workflow automation, and enterprise integrations
 ⚡ Goal           Reliable, data-safe automation for finance and approvals
 🕒 Updated        2026-08-19 UTC
