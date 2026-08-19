@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 ## 📊 AI Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/cynthia174/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/cynthia174)
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/cynthia174/svg?theme=light&sort=cost&color=pink&tokens=compact&cost=compact)](https://tokscale.ai/u/cynthia174)
 ## 🐍 Contribution Snake
 
 <picture>
