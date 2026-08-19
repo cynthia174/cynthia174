@@ -29,12 +29,7 @@ Here are some ideas to get you started:
 
 ## 📊 AI Usage
 
-<a href="https://tokscale.ai/u/cynthia174">
-  <img alt="AI tokens tracked by Tokscale" src="https://tokscale.ai/api/badge/cynthia174/svg?metric=tokens&compact=1&label=AI%20Tokens" />
-</a>
-<a href="https://tokscale.ai/u/cynthia174">
-  <img alt="Estimated AI cost tracked by Tokscale" src="https://tokscale.ai/api/badge/cynthia174/svg?metric=cost&compact=1&label=Estimated%20Cost" />
-</a>
+[![Tokscale Stats](https://tokscale.ai/api/embed/cynthia174/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/cynthia174)
 
 ## 🐍 Contribution Snake
 
